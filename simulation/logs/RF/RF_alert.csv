@@ -1,0 +1,2 @@
+Simulation Time,Log Level,Message,Baseband Unit,Spam Volume
+02:16:15.83,CRITICAL,CRITICAL ALERT: High spam volume detected at Baseband_2 and critical action is needed,Baseband_2,0.22

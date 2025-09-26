@@ -1,0 +1,75 @@
+Baseband_1 - Accuracy: 0.95
+Confusion Matrix:
+[[9320    5]
+ [ 523  724]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.95      1.00      0.97      9325
+        Spam       0.99      0.58      0.73      1247
+
+    accuracy                           0.95     10572
+   macro avg       0.97      0.79      0.85     10572
+weighted avg       0.95      0.95      0.94     10572
+
+
+Baseband_2 - Accuracy: 0.85
+Confusion Matrix:
+[[7821    4]
+ [1618 1129]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.83      1.00      0.91      7825
+        Spam       1.00      0.41      0.58      2747
+
+    accuracy                           0.85     10572
+   macro avg       0.91      0.71      0.74     10572
+weighted avg       0.87      0.85      0.82     10572
+
+
+Baseband_3 - Accuracy: 0.91
+Confusion Matrix:
+[[8820    5]
+ [ 894  853]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.91      1.00      0.95      8825
+        Spam       0.99      0.49      0.65      1747
+
+    accuracy                           0.91     10572
+   macro avg       0.95      0.74      0.80     10572
+weighted avg       0.92      0.91      0.90     10572
+
+
+Baseband_4 - Accuracy: 0.90
+Confusion Matrix:
+[[8568    7]
+ [1076  921]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.89      1.00      0.94      8575
+        Spam       0.99      0.46      0.63      1997
+
+    accuracy                           0.90     10572
+   macro avg       0.94      0.73      0.79     10572
+weighted avg       0.91      0.90      0.88     10572
+
+
+Baseband_5 - Accuracy: 0.86
+Confusion Matrix:
+[[8071    4]
+ [1469 1028]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.85      1.00      0.92      8075
+        Spam       1.00      0.41      0.58      2497
+
+    accuracy                           0.86     10572
+   macro avg       0.92      0.71      0.75     10572
+weighted avg       0.88      0.86      0.84     10572
+
+
